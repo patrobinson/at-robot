@@ -1,0 +1,3 @@
+Code used to drive a robot using a Wiimote and ATMega 8-bit micro-controller.
+
+Developed on a Raspberry Pi with Gertboard (incl. ATMega 328p)
